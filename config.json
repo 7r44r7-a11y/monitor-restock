@@ -1,0 +1,36 @@
+{
+  "palavrasChave": [
+    "30 anos",
+    "30th"
+  ],
+  "intervaloSegundos": 120,
+  "sites": {
+    "continente": {
+      "ativo": true,
+      "pesquisas": [
+        "Pokemon cartas",
+        "Pokemon 30 anos"
+      ]
+    },
+    "note": {
+      "ativo": true,
+      "intervaloMinutos": 5,
+      "pesquisas": [
+        "pokemon tcg"
+      ],
+      "produtos": [
+        "pokemon-30-anos-elite-trainer-box-9002146",
+        "pokemon-30-anos-binder-collection-9002128",
+        "pokemon-30-anos-ex-lata-9002179",
+        "pokemon-30-anos-9002152",
+        "pokemon-30-anos-poster-collection-9002170"
+      ]
+    },
+    "centroxogo": {
+      "ativo": true,
+      "intervaloMinutos": 10
+    }
+  },
+  "notificacaoWindows": false,
+  "abrirNoBrowser": false
+}

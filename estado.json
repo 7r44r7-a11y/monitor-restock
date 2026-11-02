@@ -1,0 +1,118 @@
+{
+  "_cache": {
+    "note": {
+      "ultimaDescoberta": 1793634970285,
+      "handles": [
+        "pokemon-30-anos-elite-trainer-box-9002146",
+        "pokemon-30-anos-binder-collection-9002128",
+        "pokemon-30-anos-ex-lata-9002179",
+        "pokemon-30-anos-9002152",
+        "pokemon-30-anos-poster-collection-9002170"
+      ]
+    },
+    "centroxogo": {
+      "ultimaDescoberta": 1793634977961,
+      "urls": [
+        "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-elite-trainer-box-003pc10447101.html",
+        "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-ultra-premium-003pc10448101.html",
+        "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-tech-sticker-003pc10449101.html",
+        "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-binder-collection-003pc10450101.html",
+        "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-booster-bundle-003pc10451101.html",
+        "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-figure-collection-003pc10452101.html",
+        "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-sylveon-ex-box-003pc10463103.html",
+        "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-mini-tins-stdo-003pc10465101.html",
+        "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-silveon-ex-tin-003pc10466102.html",
+        "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-greninja-ex-tin-003pc10466103.html",
+        "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-poster-collection-003pc10467101.html",
+        "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-battle-deck-stdo-003pc10468101.html",
+        "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-ditto-premium-003pc10469101.html",
+        "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-pack-blister-003pc10666102.html"
+      ]
+    }
+  },
+  "continente:9002146": {
+    "nome": "Pokémon - Cartas TCG: Elite Trainer Box 30 Anos",
+    "emStock": false,
+    "url": "https://www.continente.pt/produto/pokemon---cartas-tcg-elite-trainer-box-30-anos-9002146.html"
+  },
+  "continente:9002128": {
+    "nome": "Pokémon - Cartas TCG: Binder Collection 30 Anos",
+    "emStock": false,
+    "url": "https://www.continente.pt/produto/pokemon---cartas-tcg-binder-collection-30-anos-9002128.html"
+  },
+  "continente:9002179": {
+    "nome": "Pokémon - Cartas TCG: Ex Lata 30 Anos (vários modelos)",
+    "emStock": false,
+    "url": "https://www.continente.pt/produto/pokemon---cartas-tcg-ex-lata-30-anos-varios-modelos-9002179.html"
+  },
+  "continente:9002152": {
+    "nome": "Pokémon - Cartas TCG: Ex Box 30 Anos (vários modelos)",
+    "emStock": false,
+    "url": "https://www.continente.pt/produto/pokemon---cartas-tcg-ex-box-30-anos-varios-modelos-9002152.html"
+  },
+  "continente:9002170": {
+    "nome": "Pokémon - Cartas TCG: Poster Collection 30 Anos",
+    "emStock": false,
+    "url": "https://www.continente.pt/produto/pokemon---cartas-tcg-poster-collection-30-anos-9002170.html"
+  },
+  "continente:9002162": {
+    "nome": "Pokémon - Cartas TCG: Pack 2 Blister 30 Anos",
+    "emStock": false,
+    "url": "https://www.continente.pt/produto/pokemon---cartas-tcg-pack-2-blister-30-anos-9002162.html"
+  },
+  "note:10673553899786": {
+    "nome": "Pokémon 30 Anos Elite Trainer Box",
+    "emStock": false,
+    "url": "https://noteonline.pt/products/pokemon-30-anos-elite-trainer-box-9002146"
+  },
+  "note:10673558552842": {
+    "nome": "Pokémon 30 Anos Binder Collection",
+    "emStock": false,
+    "url": "https://noteonline.pt/products/pokemon-30-anos-binder-collection-9002128"
+  },
+  "note:10673557143818": {
+    "nome": "Pokémon 30 Anos Ex Lata",
+    "emStock": false,
+    "url": "https://noteonline.pt/products/pokemon-30-anos-ex-lata-9002179"
+  },
+  "note:10673560191242": {
+    "nome": "Pokémon 30 Anos",
+    "emStock": false,
+    "url": "https://noteonline.pt/products/pokemon-30-anos-9002152"
+  },
+  "note:10673555570954": {
+    "nome": "Pokémon 30 Anos Poster Collection",
+    "emStock": false,
+    "url": "https://noteonline.pt/products/pokemon-30-anos-poster-collection-9002170"
+  },
+  "centroxogo:pokemon-tcg-30th-celebration-ultra-premium-003pc10448101": {
+    "nome": "Pokémon TCG 30th Ultra Premium 29 Saquetas (EN)",
+    "emStock": false,
+    "url": "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-ultra-premium-003pc10448101.html"
+  },
+  "centroxogo:pokemon-tcg-30th-celebration-tech-sticker-003pc10449101": {
+    "nome": "Pokémon TCG 30th Tech Sticker 3 Saquetas (EN)",
+    "emStock": false,
+    "url": "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-tech-sticker-003pc10449101.html"
+  },
+  "centroxogo:pokemon-tcg-30th-celebration-binder-collection-003pc10450101": {
+    "nome": "Pokémon TCG 30th Celebration Binder Collection",
+    "emStock": false,
+    "url": "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-binder-collection-003pc10450101.html"
+  },
+  "centroxogo:pokemon-tcg-30th-celebration-booster-bundle-003pc10451101": {
+    "nome": "Pokémon TCG 30th Booster Bundle 6 Saquetas (EN)",
+    "emStock": false,
+    "url": "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-booster-bundle-003pc10451101.html"
+  },
+  "centroxogo:pokemon-tcg-30th-celebration-figure-collection-003pc10452101": {
+    "nome": "Pokémon TCG 30th Figure Collection 5 Saquetas (EN)",
+    "emStock": false,
+    "url": "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-figure-collection-003pc10452101.html"
+  },
+  "centroxogo:pokemon-tcg-30th-celebration-sylveon-ex-box-003pc10463103": {
+    "nome": "Pokémon TCG 30th Celebration Sylveon Ex Box",
+    "emStock": false,
+    "url": "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-sylveon-ex-box-003pc10463103.html"
+  }
+}

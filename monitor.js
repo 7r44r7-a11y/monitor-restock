@@ -140,16 +140,21 @@ const centroxogo = {
     this.ultimaDescoberta = Date.now();
     log(`Centroxogo: ${this.urls.length} produtos encontrados no sitemap.`);
   },
-  async produtos() {
+  async produtos(cfg) {
     if (!this.urls.length || Date.now() - this.ultimaDescoberta > 24 * 60 * 60 * 1000) {
       try { await this.descobrir(); } catch (e) { if (!this.urls.length) throw e; log("Centroxogo: sitemap falhou, uso a lista anterior.", e.message); }
     }
+    // O site corta a ligação depois de alguns pedidos seguidos, por isso cada verificação
+    // vê só um lote e a seguinte continua onde esta parou (todos os produtos ficam cobertos).
+    const start = (this.proximo || 0) % this.urls.length;
+    const lote = Array.from({ length: Math.min(cfg.porVerificacao || 5, this.urls.length) }, (_, i) => this.urls[(start + i) % this.urls.length]);
+    this.proximo = (start + lote.length) % this.urls.length;
     const out = [];
-    for (const url of this.urls) {
+    for (const url of lote) {
       let html;
-      try { html = await get(url); } catch (e) { log("Centroxogo:", e.message); continue; }
+      try { html = await get(url); } catch (e) { log("Centroxogo:", e.message); break; }
       await sleep(3000);
-      if (!html) continue; // produto removido do site
+      if (!html) { this.urls = this.urls.filter((u) => u !== url); continue; } // produto removido do site
       const meta = (prop) => (new RegExp(`property="${prop}" content="([^"]*)"`).exec(html) || [])[1];
       const disponibilidade = meta("product:availability");
       if (!disponibilidade) continue;
@@ -243,6 +248,7 @@ async function check() {
         state._cache[key] = { ultimaDescoberta: site.ultimaDescoberta };
         if (site.handles) state._cache[key].handles = site.handles;
         if (site.urls) state._cache[key].urls = site.urls;
+        if (site.proximo !== undefined) state._cache[key].proximo = site.proximo;
       }
     }
     if (!products.length) {

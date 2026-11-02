@@ -27,7 +27,7 @@
         "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-ditto-premium-003pc10469101.html",
         "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-pack-blister-003pc10666102.html"
       ],
-      "proximo": 10
+      "proximo": 2
     }
   },
   "continente:9002146": {
@@ -134,5 +134,20 @@
     "nome": "Pokémon TCG 30th Celebration Poster Collection",
     "emStock": false,
     "url": "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-poster-collection-003pc10467101.html"
+  },
+  "centroxogo:pokemon-tcg-30th-celebration-battle-deck-stdo-003pc10468101": {
+    "nome": "Pokémon TCG 30th Battle Deck 60 Cartas (EN)",
+    "emStock": false,
+    "url": "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-battle-deck-stdo-003pc10468101.html"
+  },
+  "centroxogo:pokemon-tcg-30th-celebration-ditto-premium-003pc10469101": {
+    "nome": "Pokémon TCG 30th Celebration Ditto Premium",
+    "emStock": false,
+    "url": "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-ditto-premium-003pc10469101.html"
+  },
+  "centroxogo:pokemon-tcg-30th-celebration-pack-blister-003pc10666102": {
+    "nome": "Pokémon TCG 30th Celebration Pack Blister",
+    "emStock": false,
+    "url": "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-pack-blister-003pc10666102.html"
   }
 }

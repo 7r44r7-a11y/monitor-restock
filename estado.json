@@ -27,7 +27,7 @@
         "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-ditto-premium-003pc10469101.html",
         "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-pack-blister-003pc10666102.html"
       ],
-      "proximo": 5
+      "proximo": 10
     }
   },
   "continente:9002146": {
@@ -114,5 +114,25 @@
     "nome": "Pokémon TCG 30th Celebration Sylveon Ex Box",
     "emStock": false,
     "url": "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-sylveon-ex-box-003pc10463103.html"
+  },
+  "centroxogo:pokemon-tcg-30th-celebration-mini-tins-stdo-003pc10465101": {
+    "nome": "Pokémon TCG 30th Mini Tins Inglês",
+    "emStock": true,
+    "url": "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-mini-tins-stdo-003pc10465101.html"
+  },
+  "centroxogo:pokemon-tcg-30th-celebration-silveon-ex-tin-003pc10466102": {
+    "nome": "Pokémon TCG 30th Celebration Sylveon ex Tin",
+    "emStock": false,
+    "url": "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-silveon-ex-tin-003pc10466102.html"
+  },
+  "centroxogo:pokemon-tcg-30th-celebration-greninja-ex-tin-003pc10466103": {
+    "nome": "Pokémon TCG 30th Celebration Greninja ex Tin",
+    "emStock": false,
+    "url": "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-greninja-ex-tin-003pc10466103.html"
+  },
+  "centroxogo:pokemon-tcg-30th-celebration-poster-collection-003pc10467101": {
+    "nome": "Pokémon TCG 30th Celebration Poster Collection",
+    "emStock": false,
+    "url": "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-poster-collection-003pc10467101.html"
   }
 }

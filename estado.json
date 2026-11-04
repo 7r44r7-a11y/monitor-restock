@@ -27,7 +27,7 @@
         "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-ditto-premium-003pc10469101.html",
         "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-pack-blister-003pc10666102.html"
       ],
-      "proximo": 10
+      "proximo": 2
     }
   },
   "continente:9002146": {
@@ -52,12 +52,12 @@
   },
   "continente:9002170": {
     "nome": "Pokémon - Cartas TCG: Poster Collection 30 Anos",
-    "emStock": false,
+    "emStock": true,
     "url": "https://www.continente.pt/produto/pokemon---cartas-tcg-poster-collection-30-anos-9002170.html"
   },
   "continente:9002162": {
     "nome": "Pokémon - Cartas TCG: Pack 2 Blister 30 Anos",
-    "emStock": false,
+    "emStock": true,
     "url": "https://www.continente.pt/produto/pokemon---cartas-tcg-pack-2-blister-30-anos-9002162.html"
   },
   "note:10673553899786": {

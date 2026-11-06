@@ -27,7 +27,7 @@
         "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-ditto-premium-003pc10469101.html",
         "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-pack-blister-003pc10666102.html"
       ],
-      "proximo": 3
+      "proximo": 8
     }
   },
   "continente:9002146": {
@@ -102,7 +102,7 @@
   },
   "centroxogo:pokemon-tcg-30th-celebration-booster-bundle-003pc10451101": {
     "nome": "Pokémon TCG 30th Booster Bundle 6 Saquetas (EN)",
-    "emStock": false,
+    "emStock": true,
     "url": "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-booster-bundle-003pc10451101.html"
   },
   "centroxogo:pokemon-tcg-30th-celebration-figure-collection-003pc10452101": {

@@ -29,7 +29,7 @@
         "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-display-mini-tins-003pcdisplayt.html",
         "https://www.centroxogo.pt/pokemon-tcg-30th-pack-ultra-premium-29-saquetas-003pcpackultr.html"
       ],
-      "proximo": 10
+      "proximo": 0
     }
   },
   "continente:9002146": {
@@ -151,5 +151,15 @@
     "nome": "Pokémon TCG 30th Celebration Pack Blister",
     "emStock": false,
     "url": "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-pack-blister-003pc10666102.html"
+  },
+  "centroxogo:pokemon-tcg-30th-celebration-display-mini-tins-003pcdisplayt": {
+    "nome": "Pokémon TCG 30th Celebration DISPLAY Mini Tins EN",
+    "emStock": true,
+    "url": "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-display-mini-tins-003pcdisplayt.html"
+  },
+  "centroxogo:pokemon-tcg-30th-pack-ultra-premium-29-saquetas-003pcpackultr": {
+    "nome": "Pokémon TCG 30th PACK 2 caixas Ultra Premium",
+    "emStock": false,
+    "url": "https://www.centroxogo.pt/pokemon-tcg-30th-pack-ultra-premium-29-saquetas-003pcpackultr.html"
   }
 }

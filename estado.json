@@ -27,7 +27,7 @@
         "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-ditto-premium-003pc10469101.html",
         "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-pack-blister-003pc10666102.html"
       ],
-      "proximo": 4
+      "proximo": 9
     }
   },
   "continente:9002146": {
@@ -117,7 +117,7 @@
   },
   "centroxogo:pokemon-tcg-30th-celebration-mini-tins-stdo-003pc10465101": {
     "nome": "Pokémon TCG 30th Mini Tins Inglês",
-    "emStock": true,
+    "emStock": false,
     "url": "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-mini-tins-stdo-003pc10465101.html"
   },
   "centroxogo:pokemon-tcg-30th-celebration-silveon-ex-tin-003pc10466102": {

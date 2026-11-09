@@ -13,7 +13,6 @@
     "centroxogo": {
       "ultimaDescoberta": 1794166723530,
       "urls": [
-        "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-ultra-premium-003pc10448101.html",
         "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-tech-sticker-003pc10449101.html",
         "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-binder-collection-003pc10450101.html",
         "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-booster-bundle-003pc10451101.html",
@@ -29,7 +28,7 @@
         "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-display-mini-tins-003pcdisplayt.html",
         "https://www.centroxogo.pt/pokemon-tcg-30th-pack-ultra-premium-29-saquetas-003pcpackultr.html"
       ],
-      "proximo": 0
+      "proximo": 5
     }
   },
   "continente:9002146": {
@@ -104,7 +103,7 @@
   },
   "centroxogo:pokemon-tcg-30th-celebration-booster-bundle-003pc10451101": {
     "nome": "Pokémon TCG 30th Booster Bundle 6 Saquetas (EN)",
-    "emStock": false,
+    "emStock": true,
     "url": "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-booster-bundle-003pc10451101.html"
   },
   "centroxogo:pokemon-tcg-30th-celebration-figure-collection-003pc10452101": {

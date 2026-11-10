@@ -28,7 +28,7 @@
         "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-display-mini-tins-003pcdisplayt.html",
         "https://www.centroxogo.pt/pokemon-tcg-30th-pack-ultra-premium-29-saquetas-003pcpackultr.html"
       ],
-      "proximo": 2
+      "proximo": 7
     }
   },
   "continente:9002146": {
@@ -108,7 +108,7 @@
   },
   "centroxogo:pokemon-tcg-30th-celebration-figure-collection-003pc10452101": {
     "nome": "Pokémon TCG 30th Figure Collection 5 Saquetas (EN)",
-    "emStock": true,
+    "emStock": false,
     "url": "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-figure-collection-003pc10452101.html"
   },
   "centroxogo:pokemon-tcg-30th-celebration-sylveon-ex-box-003pc10463103": {

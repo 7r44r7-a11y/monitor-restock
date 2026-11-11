@@ -11,7 +11,7 @@
       ]
     },
     "centroxogo": {
-      "ultimaDescoberta": 1794340175607,
+      "ultimaDescoberta": 1794431654570,
       "urls": [
         "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-tech-sticker-003pc10449101.html",
         "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-binder-collection-003pc10450101.html",
@@ -28,7 +28,7 @@
         "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-display-mini-tins-003pcdisplayt.html",
         "https://www.centroxogo.pt/pokemon-tcg-30th-pack-ultra-premium-29-saquetas-003pcpackultr.html"
       ],
-      "proximo": 2
+      "proximo": 7
     }
   },
   "continente:9002146": {
@@ -53,7 +53,7 @@
   },
   "continente:9002170": {
     "nome": "Pokémon - Cartas TCG: Poster Collection 30 Anos",
-    "emStock": true,
+    "emStock": false,
     "url": "https://www.continente.pt/produto/pokemon---cartas-tcg-poster-collection-30-anos-9002170.html"
   },
   "continente:9002162": {
@@ -108,7 +108,7 @@
   },
   "centroxogo:pokemon-tcg-30th-celebration-figure-collection-003pc10452101": {
     "nome": "Pokémon TCG 30th Figure Collection 5 Saquetas (EN)",
-    "emStock": true,
+    "emStock": false,
     "url": "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-figure-collection-003pc10452101.html"
   },
   "centroxogo:pokemon-tcg-30th-celebration-sylveon-ex-box-003pc10463103": {

@@ -1,7 +1,7 @@
 {
   "_cache": {
     "note": {
-      "ultimaDescoberta": 1794487468831,
+      "ultimaDescoberta": 1794499005930,
       "handles": [
         "pokemon-30-anos-elite-trainer-box-9002146",
         "pokemon-30-anos-binder-collection-9002128",
@@ -27,7 +27,7 @@
         "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-display-mini-tins-003pcdisplayt.html",
         "https://www.centroxogo.pt/pokemon-tcg-30th-pack-ultra-premium-29-saquetas-003pcpackultr.html"
       ],
-      "proximo": 4
+      "proximo": 9
     }
   },
   "continente:9002146": {
@@ -52,7 +52,7 @@
   },
   "continente:9002170": {
     "nome": "Pokémon - Cartas TCG: Poster Collection 30 Anos",
-    "emStock": false,
+    "emStock": true,
     "url": "https://www.continente.pt/produto/pokemon---cartas-tcg-poster-collection-30-anos-9002170.html"
   },
   "continente:9002162": {

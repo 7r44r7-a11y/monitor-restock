@@ -1,13 +1,15 @@
 {
   "_cache": {
     "note": {
-      "ultimaDescoberta": 1794827089048,
+      "ultimaDescoberta": 1794843031251,
       "handles": [
         "pokemon-30-anos-elite-trainer-box-9002146",
         "pokemon-30-anos-binder-collection-9002128",
         "pokemon-30-anos-ex-lata-9002179",
         "pokemon-30-anos-9002152",
-        "pokemon-30-anos-poster-collection-9002170"
+        "pokemon-30-anos-poster-collection-9002170",
+        "pokemon-30-anos-ultra-premium-collection-9002172",
+        "pokemon-30-anos-figure-collection-9002182"
       ]
     },
     "centroxogo": {
@@ -27,7 +29,7 @@
         "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-display-mini-tins-003pcdisplayt.html",
         "https://www.centroxogo.pt/pokemon-tcg-30th-pack-ultra-premium-29-saquetas-003pcpackultr.html"
       ],
-      "proximo": 12
+      "proximo": 4
     }
   },
   "continente:9002146": {
@@ -159,5 +161,15 @@
     "nome": "Pokémon TCG 30th PACK 2 caixas Ultra Premium",
     "emStock": false,
     "url": "https://www.centroxogo.pt/pokemon-tcg-30th-pack-ultra-premium-29-saquetas-003pcpackultr.html"
+  },
+  "note:10721647427850": {
+    "nome": "Pokémon 30 Anos Ultra-Premium Collection",
+    "emStock": false,
+    "url": "https://noteonline.pt/products/pokemon-30-anos-ultra-premium-collection-9002172"
+  },
+  "note:10721644806410": {
+    "nome": "Pokémon 30 Anos Figure Collection",
+    "emStock": false,
+    "url": "https://noteonline.pt/products/pokemon-30-anos-figure-collection-9002182"
   }
 }

@@ -1,7 +1,7 @@
 {
   "_cache": {
     "note": {
-      "ultimaDescoberta": 1795091309083,
+      "ultimaDescoberta": 1795121734899,
       "handles": [
         "pokemon-30-anos-elite-trainer-box-9002146",
         "pokemon-30-anos-binder-collection-9002128",
@@ -29,7 +29,7 @@
         "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-display-mini-tins-003pcdisplayt.html",
         "https://www.centroxogo.pt/pokemon-tcg-30th-pack-ultra-premium-29-saquetas-003pcpackultr.html"
       ],
-      "proximo": 1
+      "proximo": 6
     }
   },
   "continente:9002146": {
@@ -174,17 +174,17 @@
   },
   "continente:9002172": {
     "nome": "Pokémon - Cartas TCG: Ultra-Premium Collection 30 Anos",
-    "emStock": true,
+    "emStock": false,
     "url": "https://www.continente.pt/produto/pokemon---cartas-tcg-ultra-premium-collection-30-anos-9002172.html"
   },
   "continente:9002180": {
     "nome": "Pokémon - Cartas TCG: Ditto Premium Collection 30 Anos",
-    "emStock": true,
+    "emStock": false,
     "url": "https://www.continente.pt/produto/pokemon---cartas-tcg-ditto-premium-collection-30-anos-9002180.html"
   },
   "continente:9002182": {
     "nome": "Pokémon - Cartas TCG: Figure Collection 30 Anos",
-    "emStock": true,
+    "emStock": false,
     "url": "https://www.continente.pt/produto/pokemon---cartas-tcg-figure-collection-30-anos-9002182.html"
   }
 }

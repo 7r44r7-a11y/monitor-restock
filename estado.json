@@ -1,7 +1,7 @@
 {
   "_cache": {
     "note": {
-      "ultimaDescoberta": 1795752235665,
+      "ultimaDescoberta": 1795787195779,
       "handles": [
         "pokemon-30-anos-elite-trainer-box-9002146",
         "pokemon-30-anos-binder-collection-9002128",
@@ -29,7 +29,7 @@
         "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-display-mini-tins-003pcdisplayt.html",
         "https://www.centroxogo.pt/pokemon-tcg-30th-pack-ultra-premium-29-saquetas-003pcpackultr.html"
       ],
-      "proximo": 4
+      "proximo": 9
     }
   },
   "continente:9002146": {
@@ -124,7 +124,7 @@
   },
   "centroxogo:pokemon-tcg-30th-celebration-silveon-ex-tin-003pc10466102": {
     "nome": "Pokémon TCG 30th Celebration Sylveon ex Tin",
-    "emStock": false,
+    "emStock": true,
     "url": "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-silveon-ex-tin-003pc10466102.html"
   },
   "centroxogo:pokemon-tcg-30th-celebration-greninja-ex-tin-003pc10466103": {
@@ -134,7 +134,7 @@
   },
   "centroxogo:pokemon-tcg-30th-celebration-poster-collection-003pc10467101": {
     "nome": "Pokémon TCG 30th Celebration Poster Collection",
-    "emStock": false,
+    "emStock": true,
     "url": "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-poster-collection-003pc10467101.html"
   },
   "centroxogo:pokemon-tcg-30th-celebration-battle-deck-stdo-003pc10468101": {

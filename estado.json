@@ -1,7 +1,7 @@
 {
   "_cache": {
     "note": {
-      "ultimaDescoberta": 1795838765049,
+      "ultimaDescoberta": 1795870589871,
       "handles": [
         "pokemon-30-anos-elite-trainer-box-9002146",
         "pokemon-30-anos-binder-collection-9002128",
@@ -29,7 +29,7 @@
         "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-display-mini-tins-003pcdisplayt.html",
         "https://www.centroxogo.pt/pokemon-tcg-30th-pack-ultra-premium-29-saquetas-003pcpackultr.html"
       ],
-      "proximo": 6
+      "proximo": 11
     }
   },
   "continente:9002146": {
@@ -124,7 +124,7 @@
   },
   "centroxogo:pokemon-tcg-30th-celebration-silveon-ex-tin-003pc10466102": {
     "nome": "Pokémon TCG 30th Celebration Sylveon ex Tin",
-    "emStock": true,
+    "emStock": false,
     "url": "https://www.centroxogo.pt/pokemon-tcg-30th-celebration-silveon-ex-tin-003pc10466102.html"
   },
   "centroxogo:pokemon-tcg-30th-celebration-greninja-ex-tin-003pc10466103": {
